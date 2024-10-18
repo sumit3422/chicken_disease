@@ -22,7 +22,8 @@ list_of_files= [
     "params.ysml",
     "requitenents.txt",
     "setup.py",
-    "research/trails.ipynb"
+    "research/trails.ipynb",
+    "templates/index.html"
 ]
 
 for filepath in list_of_files:
